@@ -7,3 +7,10 @@ to measure systemic risk throughout general market, then used cross-correlation 
 different types of hedge fund strategy (e.g. merger arbitrage, long/short) OHCL data compared to SP500 OHCL data as a general market indicator to determine
 imposed risk of specific hedge fund sectors/ investment strategies and gave possible explanations for market friction/ risk noticed in the models.
 
+## [TOC]
+
+[Analysis Explanation/ Details]
+[Screenshots]
+
+<a name="Analysis Explanation/ Details"/>
+### Analysis Explanation/ Details
