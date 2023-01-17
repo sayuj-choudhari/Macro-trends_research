@@ -20,4 +20,8 @@ strategies using data of a hedge fund index and sub-indices of specific strategi
 
 ## Screenshots of plots
 
+![plot](./General_financial_market_PCA_plot.png)
+
 ![plot](./Hedge_fund_index_autocorrelation_plot.png)
+
+![plot](./Hedge_fund_sub_indices_autocorrelation_plot.png)
