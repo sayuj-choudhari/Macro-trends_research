@@ -19,3 +19,5 @@ sectors together to specifically diagnose areas of risk. In this research we pri
 strategies using data of a hedge fund index and sub-indices of specific strategies. 
 
 ## Screenshots of plots
+
+![plot](./Macro-trends_research/Hedge_fund_index_autocorrelation_plot.png)
