@@ -39,6 +39,7 @@ time frame from January 2006 to June 2020.
 
 EDL Index: Develops trading strategies to create returns and solid out of global events (e.g. elections,
 corporate situations/ activities, mergers and acquisitions deals, etc.)
+<br>
 GSL Index: Reflects the return of all remaining hedge fund strategies not defined as Long/Short or Event
 Driven
 LSL Index: Strategy that takes a long term position on underpriced equities and also selling short equities
