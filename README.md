@@ -20,4 +20,4 @@ strategies using data of a hedge fund index and sub-indices of specific strategi
 
 ## Screenshots of plots
 
-![plot](./Macro-trends_research/Hedge_fund_index_autocorrelation_plot.png)
+![plot](./Hedge_fund_index_autocorrelation_plot.png)
