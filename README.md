@@ -42,9 +42,12 @@ corporate situations/ activities, mergers and acquisitions deals, etc.)
 <br>
 GSL Index: Reflects the return of all remaining hedge fund strategies not defined as Long/Short or Event
 Driven
+<br>
 LSL Index: Strategy that takes a long term position on underpriced equities and also selling short equities
 that are expected to decline in value
+<br>
 MFL Index: Uses a pre-defined quantitative methodology to invest in a range of asset classes including:
 equities, fixed income, commodities and currencies
+<br>
 MAL Index: Uses using a pre-defined quantitative methodology to invest in a liquid, diversified and
 broadly representative set of announced merger deals
